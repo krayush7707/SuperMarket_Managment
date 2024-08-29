@@ -1,9 +1,5 @@
-// Autor : Nemonet TYP
-// Title: Supermarket Billing System project in C++
-// PROJECT FOR C/C++ PROGRAMMING TUTORIAL
 
-
-
+// Project Name: Supermarket Billing System project in C++
 #include<iostream>
 #include<windows.h>
 #include<conio.h>
